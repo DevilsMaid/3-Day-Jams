@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BE0A36B-2EF4-A8C4-1CDC-22D2965DE35B}") = "Cat on Candy", "Assembly-CSharp.csproj", "{03C947D5-1FE6-E041-753A-DDEAD6489878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C947D5-1FE6-E041-753A-DDEAD6489878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C947D5-1FE6-E041-753A-DDEAD6489878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C947D5-1FE6-E041-753A-DDEAD6489878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C947D5-1FE6-E041-753A-DDEAD6489878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

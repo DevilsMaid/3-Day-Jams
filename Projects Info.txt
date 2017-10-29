@@ -1,0 +1,38 @@
+3 Day Jams Info
+
+RULES
+I will explore a concept that before was unknown to me and learn it from scratch.
+I give myself at most 3 days worth of time to finish a game. Ideally the Jam lasts one weekend.
+I allow myself a help of my girlfriend and online resources, so long as all lines of code are made by me from scratch.
+I have to keep the deadline, completing in time is more important than additional features.
+
+
+CAT ON CANDY (Unity2D)
+
+A 2D platformer, where you assume a control of a cat that wants to eat candy.
+Collect candy to accumulate points and avoid falling stars.
+
+Steering
+ Arrow Keys - movement
+ Space - jump
+ Left Shift - run
+
+
+PYTHON BLACKJACK (Python)
+
+A cmd console application written in python that simulates playing blackjack.
+Write commands in console and play against computer controlled dealer.
+
+Legal commands in game:
+ play, quit, hit, stand
+
+
+BASEBALL BAT (Unity3D)
+
+A 3D game where you hit a ball with a pole, simulating a baseball swing.
+Drag a bat with a mouse and hit the ball as far as possible.
+
+Steering
+ Click and drag with mouse - swing a bat
+ Click when ball is at rest - reset level
+ R - forced lever reset
